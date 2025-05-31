@@ -6,7 +6,6 @@ Este repositorio contiene el conjunto de pruebas desarrolladas para el proyecto 
 
 - ✅ **Jest**: Pruebas unitarias para funciones, servicios y lógica crítica del frontend y backend.
 - 🚀 **Cypress**: Pruebas end-to-end que simulan la interacción del usuario dentro de la aplicación web TUYO.
-- 🧠 **React Testing Library** *(opcional)*: Para tests más realistas a nivel de componentes (si se usó).
 - 🌐 **Next.js + TypeScript**: Framework del proyecto base.
 
 ---
