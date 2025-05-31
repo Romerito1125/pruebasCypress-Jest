@@ -1,4 +1,4 @@
-# 📦 pruebasCypress-JestAdd commentMore actions
+# 📦 pruebasCypress-Jest
 
 ## Este repositorio contiene el conjunto de pruebas desarrolladas para el proyecto de **Ingeniería de Software 2**, aplicando las herramientas **Jest** (para pruebas unitarias y de integración) y **Cypress** (para pruebas end-to-end).
 
