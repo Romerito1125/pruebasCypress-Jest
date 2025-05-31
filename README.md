@@ -13,8 +13,7 @@
 ## 👨‍💻 Autores
 
 Este trabajo fue desarrollado por:
-
-## 🎨 Iconos  
+ 
 - **Juan Pablo Zuluaga Díaz**
 - **Juan David Muñoz Olave**
 - **Juan José Santacruz Ferraro**
