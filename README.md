@@ -22,4 +22,9 @@ Estudiantes de Ingeniería Informática – Universidad Autónoma de Occidente
 Proyecto académico de la asignatura **Ingeniería de Software II**  
 2025 🚀
 
+# Nota:
+Debido a la gran cantidad de componentes usados en las pruebas de Jest, se prefirió subir la versión del Frontend que contiene las pruebas para evitar errores. 
+
+Las partes donde hay pruebas son: Auth, Buses por estación, Buses realtime, cuenta, noticias-alertas, planea-tu-viaje.
+
 ---
